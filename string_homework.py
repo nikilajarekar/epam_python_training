@@ -24,7 +24,7 @@ print(new_sentence)
 
 #find the pos to insert
 insert_pos = normal_case.index('paragraph') + len('paragraph') + 1
-#insert the sentence at the specidifed position
+#insert the sentence at the specified position
 added_string = normal_case[:insert_pos] + new_sentence + normal_case[insert_pos:]
 #print(added_string)
 
@@ -33,7 +33,7 @@ pat = r'\biz\b'
 correct_str = re.sub(pat,'is',added_string)
 print(correct_str)
 
-#pattern to fins \n \t spaces \r \f
+#pattern to find \n \t spaces \r \f
 pat1 = '\s'
 res = re.findall(pat1,correct_str)
 print(len(res)) #count
