@@ -1,31 +1,39 @@
 News ----------
-Bharat wins the World cup
-Ahvedabaad,2023-11-05 18:58:42.702248
+This is newsheadlines
+Belgavi,2023-11-06 00:09:16.294849
 
 Advertisement ----------
-Pleaswe take our shampoo for FREE FREE FREE
-Actual untill 24/01/2024,80 days left
+Please buy of shampoo
+Actual untill 23/11/2026,1113 days left
+
+Opinion poll ----------
+Who will win the premier league?
+['1.liverpool', '2.others']
+Your opinion is : 1.liverpoolNews ----------
+This is newsheadlines
+Belgavi,2023-11-06 00:09:16.294849
+
+Advertisement ----------
+Please buy of shampoo
+Actual untill 23/11/2026,1113 days left
+
+Opinion poll ----------
+Who will win the premier league?
+['1.liverpool', '2.others']
+Your opinion is : 1.liverpoolNews ----------
+This is newsheadlines
+Belgavi,2023-11-06 00:09:16.294849
+
+Advertisement ----------
+Please buy of shampoo
+Actual untill 23/11/2026,1113 days left
+
+Opinion poll ----------
+Who will win the premier league?
+['1.liverpool', '2.others']
+Your opinion is : 1.liverpool
 
 News ----------
-Global Terrorism Comes to an End
-Planet Earth,2023-11-05 18:59:44.710887
-
-Opinion Poll ----------
-Who will win the Premier League?
-['1.Liverpool', '2.Others']
-Your Opinion is : 1.Liverpool
-
-Opinion Poll ----------
-Who will win the Premier League?
-['1.Liverpool', '2.Others']
-Your Opinion is : 1.Liverpool
-
-Advertisement ----------
-Best Indian Ayurvedic Hair Oil
-Actual untill 24/01/2025,446 days left
-
-Opinion Poll ----------
-Who will win 2024 Bharat Elections?
-['1.Narendra Modi', '2.Pappu']
-Your Opinion is : 1.Narendra Modi
+My news here
+Hubli,2023-11-06 00:31:37.639680
 
