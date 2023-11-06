@@ -1,4 +1,135 @@
 News ----------
+Bharat wins
+Ahvedabaad ,2023-11-06 12:24:45.991498
+
+pune news
+news
+News ----------
+Bharat wins World cup
+Belagavi ,2023-11-06 12:25:26.986897
+
+
+News ----------
+Ganapati bappa moraya
+Pune , 2023-11-06 12:38:24.015418
+
+
+News ----------
+bhaRat WIns
+kolkata , 2023-11-06 12:43:54.124415
+
+
+News ----------
+PuNe Wins
+Belagavi , 2023-11-06 12:49:26.775570
+
+
+News ----------
+Pune is far away 350 belgavi
+Kolhapur , 2023-11-06 13:10:50.293877
+
+
+News ----------
+Hhhf
+sjsd , 2023-11-06 13:11:24.365785
+
+
+News ----------
+Hiid
+addh , 2023-11-06 13:13:24.784534
+
+
+News ----------
+sxas
+aqdas , 2023-11-06 13:14:46.182729
+
+
+News ----------
+sxas
+adxas , 2023-11-06 13:15:00.656639
+
+
+News ----------
+ssda
+cdsc , 2023-11-06 13:15:21.678675
+
+
+News ----------
+dsd
+sdxsa , 2023-11-06 13:17:33.704863
+
+
+News ----------
+dws
+ds , 2023-11-06 13:18:49.963080
+
+
+News ----------
+d
+ad , 2023-11-06 13:19:42.589228
+
+
+News ----------
+Kalameshvar prasanna
+Kangrali , 2023-11-06 13:33:53.236418
+
+
+News ----------
+Om namah shivay
+Belagavoi , 2023-11-06 13:36:01.463782
+
+
+News ----------
+Hi om
+hariom , 2023-11-06 14:03:45.694192
+
+
+News ----------
+dds
+scvfdv , 2023-11-06 14:05:08.173832
+
+
+News ----------
+fs
+fvv , 2023-11-06 14:06:03.739428
+
+
+News ----------
+adad
+sadas , 2023-11-06 14:11:59.155956
+
+
+News ----------
+ddasd
+ada , 2023-11-06 14:16:41.319378
+
+
+News ----------
+dsada
+dads , 2023-11-06 14:17:14.251754
+
+
+News ----------
+Nikku insoiered
+london , 2023-11-06 14:25:15.620223
+
+
+News ----------
+Z
+Z , 2023-11-06 14:29:36.921546
+
+
+Advertisement ----------
+Please buy
+Actual untill 24/03/2024,139 days left
+
+
+Opinion Poll ----------
+Who will win the Premier League?
+['1.Liverpool', '2.Others']
+Your Opinion is : 1.Liverpool
+
+News ----------
 This is newsheadlines
 Belgavi,2023-11-06 00:09:16.294849
 
@@ -22,18 +153,24 @@ Who will win the premier league?
 ['1.liverpool', '2.others']
 Your opinion is : 1.liverpoolNews ----------
 This is newsheadlines
-Belgavi,2023-11-06 00:09:16.294849
+Belgavi, 2023-11-06 00:09:16.294849
 
 Advertisement ----------
 Please buy of shampoo
-Actual untill 23/11/2026,1113 days left
+Actual untill 23/11/2026, 1113 days left
+
+Opinion poll ----------
+Who will win the premier league?
+['1.liverpool', '2.others']
+Your opinion is : 1.liverpoolNews ----------
+This is newsheadlines
+Belgavi, 2023-11-06 00:09:16.294849
+
+Advertisement ----------
+Please buy of shampoo
+Actual untill 23/11/2026, 1113 days left
 
 Opinion poll ----------
 Who will win the premier league?
 ['1.liverpool', '2.others']
 Your opinion is : 1.liverpool
-
-News ----------
-My news here
-Hubli,2023-11-06 00:31:37.639680
-
