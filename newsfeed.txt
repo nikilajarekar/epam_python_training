@@ -174,3 +174,12 @@ Opinion poll ----------
 Who will win the premier league?
 ['1.liverpool', '2.others']
 Your opinion is : 1.liverpool
+
+
+Advertisement ----------
+Please buy from Product
+Actual untill 25/03/2024,140 days left
+
+News ----------
+Breaking news from Europe
+Napoli , 2023-11-06 20:09:50.480227

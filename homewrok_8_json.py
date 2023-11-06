@@ -6,6 +6,7 @@ import os
 import Functions_Homework
 import re
 import string
+import json
 
 #Class to write to Txt File
 class WriteToTxt:
@@ -150,6 +151,34 @@ class ImportFromTxtFile:
         except FileNotFoundError:
             print("File Not Found")
 
+class JsonReadWrite:
+    def __init__(self,filename):
+        self.filename = filename
+    def read_json(self,filename):
+        json_dict = json.load(open(filename))
+        return json_dict
+    def write_json(self,filename,json_dict):
+        for keys,values in json_dict.items():
+            content = values["text"]
+            if values["publication_type"] == "news":
+                category = "News"
+                dateline = values["city"]+ ' , ' + str(datetime.now())
+            elif values["publication_type"] == "ads":
+                category = "Advertisement"
+                diff_date = (datetime.strptime(values["date"], "%d/%m/%Y") - datetime.strptime(
+                    str(datetime.today().strftime('%d/%m/%Y')), "%d/%m/%Y")).days
+                dateline = "Actual untill " + str(values["date"]) + ',' + str(diff_date) + " days left"
+            else:
+                print("Wrong Publication Type")
+            write_json = WriteToTxt(category,content,dateline)
+        wc = WordCount() #object to calculate wordcount
+        wc_dict = wc.count_words() #function to count words
+        wc.write_wordcount_csv("word_count",wc_dict)
+        lc_dict,upper_count = wc.count_letters() #function to count letters
+        wc.write_lettercount_csv("letter_count",lc_dict,upper_count)
+
+
+
 class ChoiceError(Exception):
     print("In Choice Error Exception class")
 
@@ -197,6 +226,18 @@ try :
         wc.write_wordcount_csv("word_count", wc_dict)
         lc_dict, upper_count = wc.count_letters()
         wc.write_lettercount_csv("letter_count", lc_dict, upper_count)
+    elif category == 5 :
+        jsn = JsonReadWrite("input.json")
+        json_dict = jsn.read_json("input.json")
+        jsn.write_json("newsfeed.txt",json_dict)
+        
+        '''  category, content, dateline = InNews.enterData("News")
+        WriteNews = WriteToTxt(category, content, dateline)
+        wc = WordCount()  # object to calculate wordcount
+        wc_dict = wc.count_words()  # function to count words
+        wc.write_wordcount_csv("word_count", wc_dict)
+        lc_dict, upper_count = wc.count_letters()  # function to count letters
+        wc.write_lettercount_csv("letter_count", lc_dict, upper_count)'''
     else :
         raise ChoiceError("Invalid Category")
 

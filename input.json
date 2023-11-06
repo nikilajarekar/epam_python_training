@@ -1,0 +1,12 @@
+{
+  "1": {
+    "publication_type" : "ads",
+    "text" : "Please buy from Product",
+    "date": "25/03/2024"
+  },
+  "2": {
+    "publication_type" : "news",
+    "text" : "Breaking news from Europe",
+    "city": "Napoli"
+  }
+}
