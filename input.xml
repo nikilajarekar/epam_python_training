@@ -1,0 +1,14 @@
+<news_feed>
+    <category name="news">
+        <content>Bharat reaches Uranus</content>
+        <city>Aryabhatta</city>
+    </category>
+    <category name="ads">
+        <content>Please visit our Spacecraft</content>
+        <date>24/01/2024</date>
+    </category>
+    <category name="news">
+        <content>Vasudev kutumbhkham established</content>
+        <city>Antariksh</city>
+    </category>
+</news_feed>
